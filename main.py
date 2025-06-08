@@ -1,5 +1,6 @@
 from mcp.server.fastmcp import FastMCP
 
+
 # create an MCP Server
 mcp = FastMCP("Demo MCP Server")
 
